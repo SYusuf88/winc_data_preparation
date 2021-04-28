@@ -1,0 +1,48 @@
+1.
+  Date_of_report
+  Date_of_publication
+  Municipality_code
+  Municipality_name
+  Province
+  Security_region_code
+  Security_region_name
+  Municipal_health_service
+  ROAZ_region
+  Total_reported
+  Hospital_admission
+  Deceased
+
+2. Linebreak
+
+3. Semicolon
+
+4. Converting the data to something you can work with
+
+6. 
+	1. How big is the file?
+	2. How many hospitals are in the dataset?
+	3. Which municipality has the least amount of data?
+
+7. Gender
+
+8. YYYY-MM-DD
+
+10. It is a type to describe a text 
+
+11. It is a type to describe dates
+
+12. To compare the dates to each other, so you can find the first and last publication
+
+13. B (42)
+
+14. B (42)
+
+16. 'Municipality_code' and 'Municipality_name'
+
+17. It is a negative number
+
+18. Try to predict the behavior based on the history
+
+19. Yes, if you have a enough data to compare it wit
+
+20. It works well when you have a dataset that is big, otherwise there is not enough to interpolate with to give a good prediction
